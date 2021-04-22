@@ -5,6 +5,7 @@ After the code has been tested, I manually splitted the code in multiple files. 
 and the multiple-files version, that It's the same code, just splitted to be better understood.
 
 So, the directories are:
-keil-single -> 
-keil-multiple-files ->
-visual-studio ->
+keil-single -> This is the single code from the Embbedded application
+keil-multiple-files -> These are the files from the Embbedded application code
+visual-studio-windows -> These are the files from the host application code
+
