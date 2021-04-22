@@ -1,0 +1,10 @@
+This repository has 3 folders. 
+
+Because I'm having trouble spliting the Embbedded code in multiple files in Keil IDE, I developed and testes  the code in just one main.cpp file.
+After the code has been tested, I manually splitted the code in multiple files. And, because of that, I share both versions. The single one, that I'm sure works, 
+and the multiple-files version, that It's the same code, just splitted to be better understood.
+
+So, the directories are:
+keil-single -> 
+keil-multiple-files ->
+visual-studio ->
