@@ -1,10 +1,15 @@
-This repository has 3 folders. 
+This repository has 2 folders. 
 
-Because I'm having trouble spliting the Embbedded code in multiple files in Keil IDE, I developed and testes  the code in just one main.cpp file.
+They are "Entrega_1", and "Entrega_2". The first one are the files from the first part of the assignment, with the codes from the Embedded System and the windows system.
+The "Entrega_2" have the files from the "Hello World" app, and the embedded System and windows system with a few modifications to correct some bugs found in the "test plan".
+
+Disclaimer:
+Because I'm having trouble spliting the Embbedded code in multiple files in Keil IDE, I developed and test the code in just one main.cpp file.
 After the code has been tested, I manually splitted the code in multiple files. And, because of that, I share both versions. The single one, that I'm sure works, 
 and the multiple-files version, that It's the same code, just splitted to be better understood.
+I didnt do this in the second "delivery" because i did just minnors modifications, and conclude that are no need to spend time on that.
 
-So, the directories are:
+So, the directories are, for the first "delivery":
 keil-single -> This is the single code from the Embbedded application
 keil-multiple-files -> These are the files from the Embbedded application code
 visual-studio-windows -> These are the files from the host application code
